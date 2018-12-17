@@ -1,0 +1,13 @@
+C:\Users\Georg\source\repos\Woche10\Woche10\bin\Debug\Woche10.exe.config
+C:\Users\Georg\source\repos\Woche10\Woche10\bin\Debug\Woche10.exe
+C:\Users\Georg\source\repos\Woche10\Woche10\bin\Debug\Woche10.pdb
+C:\Users\Georg\source\repos\Woche10\Woche10\obj\Debug\Woche10.csprojAssemblyReference.cache
+C:\Users\Georg\source\repos\Woche10\Woche10\obj\Debug\Woche10.csproj.CoreCompileInputs.cache
+C:\Users\Georg\source\repos\Woche10\Woche10\obj\Debug\Woche10.exe
+C:\Users\Georg\source\repos\Woche10\Woche10\obj\Debug\Woche10.pdb
+C:\Users\Karpfen\Desktop\Woche10\Woche10\bin\Debug\Woche10.exe.config
+C:\Users\Karpfen\Desktop\Woche10\Woche10\bin\Debug\Woche10.exe
+C:\Users\Karpfen\Desktop\Woche10\Woche10\bin\Debug\Woche10.pdb
+C:\Users\Karpfen\Desktop\Woche10\Woche10\obj\Debug\Woche10.csproj.CoreCompileInputs.cache
+C:\Users\Karpfen\Desktop\Woche10\Woche10\obj\Debug\Woche10.exe
+C:\Users\Karpfen\Desktop\Woche10\Woche10\obj\Debug\Woche10.pdb
