@@ -1,0 +1,10 @@
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenTest\bin\Debug\StreckenTest.exe.config
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenTest\bin\Debug\StreckenTest.exe
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenTest\bin\Debug\StreckenTest.pdb
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenTest\bin\Debug\StreckenUPunkte.dll
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenTest\bin\Debug\StreckenUPunkte.pdb
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenTest\obj\Debug\StreckenTest.csprojAssemblyReference.cache
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenTest\obj\Debug\StreckenTest.csproj.CoreCompileInputs.cache
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenTest\obj\Debug\StreckenTest.csproj.CopyComplete
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenTest\obj\Debug\StreckenTest.exe
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenTest\obj\Debug\StreckenTest.pdb

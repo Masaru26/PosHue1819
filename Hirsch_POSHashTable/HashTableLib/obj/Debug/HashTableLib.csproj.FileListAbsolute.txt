@@ -1,0 +1,17 @@
+D:\Daten\Schule\5Kls\POS\POSHashTable\HashTableLib\bin\Debug\HashTableLib.dll
+D:\Daten\Schule\5Kls\POS\POSHashTable\HashTableLib\bin\Debug\HashTableLib.pdb
+D:\Daten\Schule\5Kls\POS\POSHashTable\HashTableLib\obj\Debug\HashTableLib.csprojAssemblyReference.cache
+D:\Daten\Schule\5Kls\POS\POSHashTable\HashTableLib\obj\Debug\HashTableLib.csproj.CoreCompileInputs.cache
+D:\Daten\Schule\5Kls\POS\POSHashTable\HashTableLib\obj\Debug\HashTableLib.dll
+D:\Daten\Schule\5Kls\POS\POSHashTable\HashTableLib\obj\Debug\HashTableLib.pdb
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\bin\Debug\HashTableLib.dll
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\bin\Debug\HashTableLib.pdb
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\obj\Debug\HashTableLib.csprojAssemblyReference.cache
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\obj\Debug\HashTableLib.csproj.CoreCompileInputs.cache
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\obj\Debug\HashTableLib.dll
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\obj\Debug\HashTableLib.pdb
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\bin\Debug\FParsec.dll
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\bin\Debug\FParsecCS.dll
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\bin\Debug\FParsec.xml
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\bin\Debug\FParsecCS.xml
+D:\Daten\Schule\5Kls\POS\Hirsch_POSHashTable\HashTableLib\obj\Debug\HashTableLib.csproj.CopyComplete

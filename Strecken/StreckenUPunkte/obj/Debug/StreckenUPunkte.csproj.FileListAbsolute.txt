@@ -1,0 +1,6 @@
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenUPunkte\bin\Debug\StreckenUPunkte.dll
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenUPunkte\bin\Debug\StreckenUPunkte.pdb
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenUPunkte\obj\Debug\StreckenUPunkte.csprojAssemblyReference.cache
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenUPunkte\obj\Debug\StreckenUPunkte.csproj.CoreCompileInputs.cache
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenUPunkte\obj\Debug\StreckenUPunkte.dll
+D:\Daten\Schule\5Kls\POS\Strecken\StreckenUPunkte\obj\Debug\StreckenUPunkte.pdb

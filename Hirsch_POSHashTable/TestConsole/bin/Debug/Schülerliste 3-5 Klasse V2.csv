@@ -1,0 +1,401 @@
+Klasse;Name;Vorname
+5EHIF;Boschek;Florian
+5EHIF;Filipovic;Dennis
+5EHIF;Heidenreich;Sebastian Christian
+5EHIF;Hinteregger;Rene
+5EHIF;Hirsch;Jonas Alexander
+5EHIF;Imeri;Almir
+5EHIF;Kern;Thomas Günter
+5EHIF;Koller;Markus Benedict
+5EHIF;Kumar;Mahol
+5EHIF;Laurente;Ralph Noah
+5EHIF;Luxbacher;Benjamin Lukas
+5EHIF;Pearce;George Alexander
+5EHIF;Pejic;Andreas
+5EHIF;Pilz;Benedikt Andreas
+5EHIF;Reiterer;Marc Christopher
+5EHIF;Steiner;Peter
+5EHIF;Wallner;Florian Martin
+5EHIF;Wlk;Alexander
+5EHIF;Yassin;Karim
+5EHIF;Yusupov;Adam
+5BHIF;Ahmad;Hamza
+5BHIF;Bauer;Mathias
+5BHIF;Böchzelt;Oliver
+5BHIF;Dolic;Armin
+5BHIF;Fiedler;Fabian
+5BHIF;Gratzl;Dominik
+5BHIF;Juric;Lukas
+5BHIF;Kaven;Georg Christian
+5BHIF;Reisenhofer;Florian
+5BHIF;Schuöcker;Kevin
+5BHIF;Singh;Sahil
+5BHIF;Slota;Alexander
+5BHIF;Strouhal;Christopher
+5BHIF;Suppan;Fabian
+5BHIF;Varga;Mathias Markus
+5BHIF;Weninger;Moritz Leon
+5BHIF;Wieland;Dominik Viktor
+5BHIF;Wilding;Gerald
+5BHIF;Zabojnik;Raphael
+5AHIF;Abidi;Yessine
+5AHIF;Amankwaah;Konadu
+5AHIF;Bischof;Benedikt
+5AHIF;Blauensteiner;Fabian
+5AHIF;Büschinger;Pascal
+5AHIF;Del Rosario*;Genevere Anne
+5AHIF;Dikme;Ferhat
+5AHIF;Eskenasi;David
+5AHIF;Gehri;Kevin
+5AHIF;Ghencian;Ionatan
+5AHIF;Hackl;Niklas
+5AHIF;Harapatt;Andreas
+5AHIF;Kalch;Kevin Thomas
+5AHIF;Krammer;Marcel
+5AHIF;Mandic;Kristian
+5AHIF;Mohamed*;Jasmin
+5AHIF;Mörth;Maximilian
+5AHIF;Rahmani;Granit
+5AHIF;Randhawa;Dilraj
+5AHIF;Redl;Julian Paul
+5AHIF;Rührig*;Johanna
+5AHIF;Salama;Elsayed
+5AHIF;Staicu;Alexandru
+5AHIF;Stanisavljev;Teodor
+5AHIF;Strunz;Daniel
+5AHIF;Tröstler;Christoph Alexander
+5AHIF;Turan*;Selin
+5AHIF;Weirer;Benjamin Marcus
+5AHIF;Zinkl;Manuel
+5AHIF;Zukorlic;Amar
+4EHIF;BRUNNER;Florian
+4EHIF;CICEK;Eyyüp
+4EHIF;CUNAJ;Fatlind
+4EHIF;DRIZA;Besnik
+4EHIF;ERSEMIKOV;Ichwan
+4EHIF;FARCHER;Eric
+4EHIF;FENDRICH;Daniel
+4EHIF;FLETZER;Lukas
+4EHIF;FRIEDL;Niklas
+4EHIF;GÖTZ;Florian
+4EHIF;HÖCHTL;David Nicolas
+4EHIF;JOHAL;Parminder Singh
+4EHIF;KATH;Filip Noah
+4EHIF;KLEMENT;Nicolas
+4EHIF;KONTONIS;Georg Gerhard
+4EHIF;OSMANOVIC;Deniz
+4EHIF;SACHS;Maximilian
+4EHIF;SAßMANN;Hans
+4EHIF;SCHEIFINGER;David Sylvian
+4EHIF;SCHWARZ;Adrian Andreas
+4EHIF;SCHWEIGER;Lukas Michael
+4EHIF;SONNBERGER;Paul
+4EHIF;WEIß;Lukas
+4EHIF;WONDRAK;Clemens Peter
+4EHIF;ZAUFL;Markus
+4EHIF;ZEQIRAJ;Brahim
+4BHIF;ARSLAN;Emre
+4BHIF;AZER;Benjamin
+4BHIF;BOLES;Johannes Faiez
+4BHIF;GEDIK;Said Emir
+4BHIF;GLÖSMANN;Paul Josef
+4BHIF;HADDAD;Steven
+4BHIF;HOCHMANN;Philipp
+4BHIF;IWANOWSKI;Viktor
+4BHIF;KACAPOR;Moamer
+4BHIF;KOPP;Alexander
+4BHIF;KÜCÜKKUS;Ozan Can
+4BHIF;LEHEGZEK;Nico
+4BHIF;MARLOK;Mark
+4BHIF;NAZARI;Murtaza
+4BHIF;OKCAN;Attila
+4BHIF;SAßMANN;Martin
+4BHIF;SERNA;John Melver
+4BHIF;SERT;Oktay
+4BHIF;SIMIC;Ivan
+4BHIF;TULACH;Clemens Wolfgang
+4BHIF;VINTERA;Matthias
+4BHIF;WANGGO;Philipp Michael
+4BHIF;YALCINKAYA;Berkay
+4BHIF;ZHENG;Quan
+4BHIF;ZLATANOVSKI;Oliver
+4AHIF;AKALIN;Altan
+4AHIF;BAJALIEV;Rudvan
+4AHIF;BARLAS;Civan
+4AHIF;BEKRIC;Elmir
+4AHIF;BOUAZIZI;Malek
+4AHIF;BRUCKMÜLLER*;Lisa
+4AHIF;CEDRYCH;Philipp
+4AHIF;DORONENKO;Bronislav
+4AHIF;DURMAZ;Abdullah Sedad
+4AHIF;EGERT;Torsten
+4AHIF;GÜNVAR;Mehmet
+4AHIF;HAIDER;Christoph
+4AHIF;KACAPOR;Kadir
+4AHIF;KARIYAMPALLI;Christy
+4AHIF;KAUFMANN;Simon Silvester
+4AHIF;KAYMAZ;Suad
+4AHIF;MOHAMMAD;Zainul Abedin
+4AHIF;NAUSCH;Alexander Christoph
+4AHIF;NIKOLIC;Stefan
+4AHIF;ROTH;Christian Ignaz
+4AHIF;SERT;Yasar
+4AHIF;SEVILMIS;Eray
+4AHIF;SORODOC;David
+4AHIF;SOYLU;Salih
+4AHIF;ZYCH;Konrad Arkadiusz
+3EHIF;ABOU-ELAZAB;Abd-Elrahman
+3EHIF;ADAMOVIC;Filip
+3EHIF;BENKE;Erik Johannes
+3EHIF;BHUTTO*;Sana
+3EHIF;BIHORAC;Meris
+3EHIF;DELEGAN;Edvard
+3EHIF;DUNAREANU;Chris
+3EHIF;GERI*;Silvana Theresia
+3EHIF;GÜNDÜZ;Yigithan
+3EHIF;JOVANOVIC;Peter
+3EHIF;KAIPEL;Sebastian Richard
+3EHIF;KESCHER;Jeremy Sven
+3EHIF;KIZILIRMAK;Hasan Basri
+3EHIF;MOHSINI*;Shakila
+3EHIF;NIKOLIC;Marcel
+3EHIF;PAVLOVIC;Marko
+3EHIF;ROSEL;Marcus Sebastian
+3EHIF;SATORA;Marcel
+3EHIF;SCHMATZ*;Sarah Larissa
+3EHIF;SCHROLMBERGER;Mario
+3EHIF;SIMIC*;Nikolina
+3EHIF;STROBL;Eric Nicolas
+3EHIF;SUNGUR*;Mine
+3EHIF;WEBER;Kevin Wolfgang
+3EHIF;WOHLRAB;Erik Yannick
+3EHIF;ZECHMEISTER*;Vanessa Carmen
+3BHIF;AMPIA-ADDISON;Kofi Arku
+3BHIF;ASHBIN;Armin
+3BHIF;BOCHENEK;Adrian Piotr
+3BHIF;BÖHM;Oliver
+3BHIF;CHUNG;Loon Seng Dominik
+3BHIF;GALLI;Raphael
+3BHIF;MICIC;Michael
+3BHIF;MORARIU;Emanuel
+3BHIF;NEZIRI;Eldi
+3BHIF;NGUYEN;Trung
+3BHIF;PAUL;Timothy John
+3BHIF;PEMPER;Filip
+3BHIF;PIPP;Fabian Andreas
+3BHIF;PITTNER;Justin
+3BHIF;SCHERL;Florian
+3BHIF;SCHLÖGL;Daniel
+3BHIF;SCHMALZBAUER;Marvin
+3BHIF;STANKOVIC;Filip
+3BHIF;UMALATOV;Ramsan Islamovitsch
+3AHIF;AZIZI;Mohibullah
+3AHIF;BAYER;Hugo Christian
+3AHIF;BELZAR;Martin
+3AHIF;BERGER;Dominic
+3AHIF;DREWNIAK;Kevin Robert
+3AHIF;GRAF;Maximilian
+3AHIF;INDERBIEV;Achmed
+3AHIF;IOVUTA;Elisei
+3AHIF;IRSIGLER;Nino
+3AHIF;ISLAMOVIC;Armin
+3AHIF;KALTENBRUNNER;Eric
+3AHIF;KISA;Andreas
+3AHIF;KOCH;Manuel
+3AHIF;LUCIJIC;Lukas
+3AHIF;MATEJEVIC*;Sarah Maria
+3AHIF;MESSNER;Michael Anthony
+3AHIF;PAL;Ajay
+3AHIF;SINANOVIC;Ervin
+3AHIF;SPELLITZ;Thomas
+3AHIF;TALAS;Muhammed Emre
+2CHIF;ABIDI;Aziz
+2CHIF;ADEGBIE;Adetunji Adromola
+2CHIF;AHMED;Taha
+2CHIF;ARSLAN;Kerim
+2CHIF;BLASZCZYK;Jakub Rafal
+2CHIF;BORAN;Fabio Othmar
+2CHIF;BRESSLER;Tobias Matias
+2CHIF;DORNER;Michael
+2CHIF;DORONENKO;Vratislav
+2CHIF;FELLNER;David Manfred
+2CHIF;GRUMILLER;Armin
+2CHIF;GUT;Manuel
+2CHIF;HAUSSPERGER;Georg
+2CHIF;HORRIEH;Nima
+2CHIF;JOPKIEWICZ;Felix
+2CHIF;JOSIPOVIC;Filip
+2CHIF;KEIBLINGER;Marvin
+2CHIF;MAHMODY;Mahdi
+2CHIF;RAMADANI;Dionis
+2CHIF;REKALA;Beniamin Vasile
+2CHIF;RIEDL;Markus
+2CHIF;RIKAL;Nico
+2CHIF;SEICEAN;Andreas
+2CHIF;SHAH;Bilawal Hussain
+2CHIF;SÖZERI;Dalyan
+2CHIF;STECHER;Sebastian
+2CHIF;SUNARIC;Dejan
+2CHIF;TRÖSTL;Moritz
+2CHIF;VASILJEVIC;Luka
+2CHIF;WILLIM;Lukas
+2CHIF;WIMMER;Vincenz
+2BHIF;ABBASI;Basel
+2BHIF;ANDUNDA;Christophe-Mokili
+2BHIF;BALLAUN;Raffael Clemens
+2BHIF;BRAUNSTEIN;Sebastian
+2BHIF;DO NASCIMENTO;Danny
+2BHIF;DODOG;Zoltan Balazs
+2BHIF;DOLU;Davut
+2BHIF;EFE;Harun
+2BHIF;HADERLEIN;Julian
+2BHIF;KARRINGER;Markus Maximilian
+2BHIF;KATTINGER;Sascha
+2BHIF;KLUBNIK;Juraj
+2BHIF;KRSTEVSKI;David
+2BHIF;NEMETH;Nicolas
+2BHIF;OTHMAN;Ahmed
+2BHIF;PIETSCHMANN;Lukas Elias
+2BHIF;PRIKOP;Kirill
+2BHIF;REZK;Stefan
+2BHIF;ROCKENBAUER;Jakob
+2BHIF;ROGI;Gabriel
+2BHIF;SABANI;Alexander
+2BHIF;SCHLAGHUBER;Niklas Dominik Heinrich
+2BHIF;SCHWENT;Maximilian
+2BHIF;SERIN;Berke
+2BHIF;SEVILMIS;Erdem
+2BHIF;SHCHENIATSKYY;Anton
+2BHIF;TONKO;Florian
+2BHIF;VAVRIK;Alexander
+2BHIF;VODA;Victor
+2BHIF;VUKMIROVIC;Stefan
+2BHIF;WICHMANN;Max
+2AHIF;AGUERO;Franz Josef
+2AHIF;BANACH;Dominik Matthias
+2AHIF;BROOHM;Caleb Niikwei
+2AHIF;DRIZA;Enis
+2AHIF;DROZD;Michael
+2AHIF;DZAJIC;Alen
+2AHIF;EZZINE*;Elaa
+2AHIF;GÜLFIRAT;Erencan
+2AHIF;HEINZL;Hans-Peter Günter
+2AHIF;JOSIC*;Sanja
+2AHIF;KALTENBRUNNER;Lukas
+2AHIF;KAUT;Benjamin Christian
+2AHIF;KISA;Georg
+2AHIF;KÖTH;Pascal
+2AHIF;MENZEL;Emanuel Bernhard
+2AHIF;MURADI*;Sabiha
+2AHIF;NIKLAS;Fabian
+2AHIF;PEKESEN*;Nazlican
+2AHIF;POPA;David Angelo
+2AHIF;RÖTZER;Ralph Emanuel
+2AHIF;SAHAN;Ebubekir
+2AHIF;SAIDY*;Nazeera
+2AHIF;SCHWARZ;Maximilian Renato
+2AHIF;SHALA;Elton
+2AHIF;SISON*;Jeannine
+2AHIF;SOPORAN;Kevin-Gabriel
+2AHIF;STARNBERGER*;Leona
+2AHIF;STEIP;Raphael Ferenc
+2AHIF;SYED;Mashood Raza
+2AHIF;ZENKU;Muhamed
+2AHIF;ZIOBRON;Adrian
+1CHIF;AMOMONPON;Joshua-Noel
+1CHIF;AYDIN;Emre
+1CHIF;AYNA;Mustafa Eren
+1CHIF;BARZAN;Aland
+1CHIF;GARHÖFER;Felix
+1CHIF;GLUDERER;Marvin
+1CHIF;GONTER;Alexander
+1CHIF;HIKL;Sandro Alfred
+1CHIF;HOTWAGNER;Benjamin Siegfried
+1CHIF;JELECEVIC;Mario
+1CHIF;JOVANOVIC;Nikolas
+1CHIF;KARASU;Berke
+1CHIF;KARBUNAREVIC;Kristijan
+1CHIF;LETIC;Nikola
+1CHIF;LIEDLER;Christian
+1CHIF;MAHI;David
+1CHIF;MATYUSHENKO;Alexander
+1CHIF;MUNGANGA;Jonathan
+1CHIF;NAGY;David
+1CHIF;NEDZA;Matthias
+1CHIF;NICOLICS;Samuel
+1CHIF;RAHAL;Rohitpreet Singh
+1CHIF;SALVATIERRA;Juann Miguel
+1CHIF;SARNA;Harween
+1CHIF;SAVIC;Aleksandar
+1CHIF;STANKOVIC;Stefan
+1CHIF;SYLEJMANI;Muhamed Ali
+1CHIF;TAKACS;Stefan
+1CHIF;UNGER;Florian-Lukas
+1CHIF;WAMPULA;Benjamin
+1CHIF;WISSIG;Luis Philipp
+1CHIF;WOJCIAK;Przemyslaw
+1BHIF;BEKHIT;Youssef
+1BHIF;BERKEMEIER;Julian Herbert
+1BHIF;DONNER;Alexander Gerhard
+1BHIF;ELSHAMIE;Elsbaai Yhaya
+1BHIF;FOCSA;Kevin Eugen
+1BHIF;FRIED;Fabian
+1BHIF;GEHRINGER;Manfred Alexander
+1BHIF;GORNY;Oliwier Mikail
+1BHIF;HOHN;Fabian
+1BHIF;JAKUPOVIC;Adis
+1BHIF;JUNGMANN;Manuel
+1BHIF;KIANI MOTLAGH;Ramin
+1BHIF;KLIMA;Robin
+1BHIF;KRISTEN;Patrick
+1BHIF;MLODNICKI;Serkan
+1BHIF;MÜLLER;Leo
+1BHIF;PIKNER;Lukas
+1BHIF;REZNY;Martin
+1BHIF;SAJBOR;Sebastian
+1BHIF;SCHINDLER;Martin Andreas
+1BHIF;SCHMUCKERSCHLAG;Armin
+1BHIF;SCHÖPF;David
+1BHIF;SHENOUDA;Florian
+1BHIF;SINGH;Akashdeep
+1BHIF;SOYLU;Cagri
+1BHIF;THUNIOT;Nico Walter
+1BHIF;TOMAS;Julian
+1BHIF;WAGNER;Eliah
+1BHIF;WAISMAYER;Nino
+1BHIF;YIN;Owen
+1BHIF;ZAKI;Murtaza
+1BHIF;ZARROUGUI;Aymen
+1BHIF;ZEQIRAJ;Premton
+1AHIF;ADA;Mert
+1AHIF;AHMED*;Schamma
+1AHIF;BAUMANN;Moritz
+1AHIF;BEGANOVIC;Leon
+1AHIF;BHUTTO*;Asma
+1AHIF;BREZONIC;Marko
+1AHIF;DALLA CORTE ;William
+1AHIF;DUMITRIU;Alexandru-Ionut
+1AHIF;HAJI*;Win
+1AHIF;KHALIFA*;Fatima
+1AHIF;LANGHAMMER*;Katrin Barbara
+1AHIF;LEPIR;Marko
+1AHIF;MARKOVIC;Mario
+1AHIF;MOBALEGH*;Sumaya
+1AHIF;MOHAMADI;Zahra
+1AHIF;MUSA;Ivan
+1AHIF;NIKQ;Endrit
+1AHIF;ORLOWSKI;Gabriel
+1AHIF;PERNJAKOVIC*;Stefania
+1AHIF;PETTERMANN;Hermann
+1AHIF;RADOVANOVIC;Sladan
+1AHIF;REINOLD;Fabian Milan
+1AHIF;RUBASCH*;Jacqueline
+1AHIF;RUZANOVIC-VRBKA;Jovan
+1AHIF;SAADOUN;Sameh
+1AHIF;SCHINKO;Sebastian
+1AHIF;STAGL;Felix Robert
+1AHIF;TSCHUWAN;Jonas Christoph
+1AHIF;VENZHOFER;Sebastian
+1AHIF;WALZ;Luis
+1AHIF;WOGRIN;Julian Simon
+1AHIF;ZAHITOVIC;Dzaid
