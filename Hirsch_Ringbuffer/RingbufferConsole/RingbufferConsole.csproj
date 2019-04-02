@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RingBuffer\RingBuffer.csproj">
+      <Project>{7613282a-e411-431c-9268-aba46fdceed3}</Project>
+      <Name>RingBuffer</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

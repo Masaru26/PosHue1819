@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RingBuffer
 {
-    public class Class1
+    public class Ringbuffer
     {
 
 
