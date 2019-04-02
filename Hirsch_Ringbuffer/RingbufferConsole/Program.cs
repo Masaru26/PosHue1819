@@ -27,18 +27,25 @@ namespace RingbufferConsole
             //Console.WriteLine("DONE");
             #endregion
 
+            var valueList = new List<int>();
+
             using(StreamReader sr = new StreamReader(PATH))
             {
-                string zeile = "";
+                string zeile = String.Empty;
                 while (!sr.EndOfStream)
                 {
+                    zeile = sr.ReadLine();
+                    var split = zeile.Split(';');
 
+                    valueList.Add(int.Parse(split[1]));
                 }
             }
 
-            Ringbuffer<int> rb = new Ringbuffer<int>();
 
 
+            Ringbuffer<int> rb = new Ringbuffer<int>(valueList, 10);
+
+            Console.ReadKey();
         }
     }
 }

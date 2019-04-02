@@ -14,7 +14,7 @@ namespace RingBuffer
     
         public int Length { get; set; }
 
-        private int _Last;
+        private int _Newest;
 
         /// <summary>
         /// Last = index des zueletzt eingefügten werts
@@ -23,13 +23,17 @@ namespace RingBuffer
         {
             get
             {
-                return _Last;
+                return _Newest;
             }
             set
             {
                 if(value >= Length)
                 {
-                    _Last = 0;
+                    _Newest = 0;
+                }
+                else
+                {
+                    _Newest = value;
                 }
             }
         }
@@ -46,17 +50,17 @@ namespace RingBuffer
             this.Newest = 0;
         }
 
-        public Ringbuffer(IList<T> ic)
+        public Ringbuffer(IList<T> ic, int Length)
         {
-            this.Length = ic.Count();
+            this.Length = Length;
             this.innerBuffer = new T[this.Length];
 
-            for (int i = 0; i < this.Length; i++)
+            this.Newest = 0;
+
+            for (int i = 0; i < ic.Count(); i++)
             {
                 Write(ic[i]);
             }
-
-            this.Newest = 0;
         }
 
         #endregion
@@ -71,8 +75,8 @@ namespace RingBuffer
         public void Write(T value)
         {
             innerBuffer[this.Newest] = value;
-            this.Newest++;
             Read();
+            this.Newest += 1;
         }
 
         public void Peek(int idx)
