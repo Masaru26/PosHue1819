@@ -41,10 +41,9 @@ namespace RingbufferConsole
                 }
             }
 
-
-
             Ringbuffer<int> rb = new Ringbuffer<int>(valueList, 10);
 
+            Console.WriteLine("Press any key to exit ...");
             Console.ReadKey();
         }
     }

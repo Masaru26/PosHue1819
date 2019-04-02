@@ -3,12 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace RingBuffer
 {
     public class Ringbuffer<T>
     {
         T[] innerBuffer;
+
+        string PATH = "output.txt";
 
         #region Properties
     
@@ -69,7 +72,10 @@ namespace RingBuffer
 
         public void Read()
         {
-            Console.WriteLine(this.Newest + ": " + innerBuffer[this.Newest]);
+            using (StreamWriter sw = new StreamWriter(PATH, true))
+            {
+                sw.WriteLine(this.Newest + ": " + innerBuffer[this.Newest]);
+            }
         }
 
         public void Write(T value)
