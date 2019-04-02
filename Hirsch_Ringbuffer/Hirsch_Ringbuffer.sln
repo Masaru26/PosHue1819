@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingBuffer", "RingBuffer\RingBuffer.csproj", "{7613282A-E411-431C-9268-ABA46FDCEED3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingbufferConsole", "RingbufferConsole\RingbufferConsole.csproj", "{6E76FB2E-8290-4FC2-A1CC-1DB8A7454C2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7613282A-E411-431C-9268-ABA46FDCEED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7613282A-E411-431C-9268-ABA46FDCEED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7613282A-E411-431C-9268-ABA46FDCEED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E76FB2E-8290-4FC2-A1CC-1DB8A7454C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E76FB2E-8290-4FC2-A1CC-1DB8A7454C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E76FB2E-8290-4FC2-A1CC-1DB8A7454C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E76FB2E-8290-4FC2-A1CC-1DB8A7454C2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
